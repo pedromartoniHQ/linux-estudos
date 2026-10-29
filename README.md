@@ -1,4 +1,4 @@
-# linux-estudos
+# linux-praticas
 aulas praticas de linux COM KIllercoda
 PASSO A PASSO DOS COMANDOS DO LINUX:
 
